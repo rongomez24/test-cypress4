@@ -1,0 +1,6 @@
+{
+    "sel_guardar": ":nth-child(2) > input",
+    "sel_cerrar_sesion": "[align='right'] > :nth-child(1) > a > font",
+    "sel_domicilio": "input[name='domicilio']",
+    "data_domicilio": "Rosario 2548"
+  }

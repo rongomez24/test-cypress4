@@ -1,0 +1,8 @@
+{
+    "sel_usuario": "input[name='usuario']",
+    "sel_clave": ":nth-child(2) > [width='40'] > input",
+    "sel_boton_ingresar": "#btnIngresar",
+    "data_usuario": "prueba",
+    "data_clave":"12345",
+    "sel_cerrar_sesion" : "#cierre > font"
+  }

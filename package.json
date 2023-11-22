@@ -1,0 +1,17 @@
+{
+  "name": "test_emaras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test_all": "cypress run emaras_login.cy.js,emaras_test1.cy.js, emaras_test2.cy.js",
+    "cambio_domicilio": "cypress run emaras_test1.cy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.5.0"
+  }
+}
